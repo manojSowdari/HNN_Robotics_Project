@@ -35,7 +35,7 @@ This project serves as an end-to-end demonstration of:
 - **Data Logging:** Records joint states (angle, velocity) into NumPy arrays for easy plotting or training a neural network.
 - **HNN Training Scripts (Prototype):** Shows how you might structure a training script to learn Hamiltonian dynamics from simulation data.
 
----
+ ```
 
 ## Prerequisites
 1. **Python 3.8+**  
