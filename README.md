@@ -156,8 +156,8 @@ HNN_Robotics_Project/
 - **HNN Training (if used):**  
   - A `.pth` file (e.g., `hnn_robot_arm.pth`) containing the trained model parameters.
   - Plots or logs showing loss over epochs, or trajectory comparisons.
+![image](https://github.com/user-attachments/assets/b479ebc7-ad06-4cd6-93cf-b75b15aae473)
 
-*(Include screenshots or plots here if you have them.)*
 
 ---
 
@@ -188,12 +188,4 @@ If you have any questions or feedback, please open an issue in this repository o
 *Happy Coding and Simulating!*
 ```
 
----
 
-### Tips for Customizing
-
-- **Rename Scripts/Folders:** Update file names in the README if you change them.
-- **Add More Detail:** If you want to elaborate on how Hamiltonian Neural Networks work or provide a theoretical background, you can add a dedicated “Theory” or “Background” section.
-- **Include Images:** If you have screenshots (e.g., `.png` files) of your PyBullet simulation or plots, place them in a folder (e.g., `images/`) and reference them in your README with `![alt text](images/screenshot.png)`.
-
-Feel free to modify any of the sections to reflect your project’s specifics. Once you finalize the README, commit and push it to GitHub to share with others. Let me know if you have any questions or need further help!
