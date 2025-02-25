@@ -1,6 +1,3 @@
-Below is a comprehensive README that you can copy and paste into your **README.md** file. Feel free to customize any section to match your exact setup, goals, or preferences.
-
----
 
 ```markdown
 # HNN Robotics Project
